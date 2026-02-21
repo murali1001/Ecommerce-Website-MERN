@@ -3,7 +3,7 @@
 
 This project is a full-stack ecommerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse products, view details, add items to cart, and manage purchases through a responsive and intuitive user interface.
 
-Features
+# Features
 
 User authentication and authorization
 
@@ -21,8 +21,9 @@ Responsive frontend design
 
 Secure backend with database integration
 
-Tech Stack
-Frontend
+# Tech Stack
+
+**Frontend**
 
 React.js
 
@@ -32,25 +33,27 @@ HTML5
 
 CSS3
 
-Backend
+Tailwind CSS
+
+**Backend**
 
 Node.js
 
 Express.js
 
-Database
+**Database**
 
 MongoDB
 
-Tools
+**Tools**
 
 Git & GitHub
 
 VS Code
 
-REST APIs
+MongoDB Compass
 
-Architecture
+# Architecture
 
 The application follows a client-server architecture:
 
